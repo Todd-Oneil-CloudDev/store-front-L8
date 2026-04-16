@@ -2,7 +2,7 @@
   <nav>
     <div class="logo">
       <a href="/">
-        <img src="/banner.png" alt="Opps All Headphones">
+        <img src="/banner.jpg" alt="Oops All Headphones">
       </a>
     </div>
     <button class="hamburger" @click="toggleNav">
