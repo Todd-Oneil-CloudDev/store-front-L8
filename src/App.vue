@@ -109,12 +109,12 @@ export default {
 
 <style>
 body {
-  /* background-image: url('@../public/banner.jpg');*/
-  /*background-size: cover;*/
-  /*background-position: center;*/
-  /*background-attachment: fixed; */
-  /*margin: 0;*/
-  /*padding: 0;*/
+   background-image: url('@./banner.png');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed; 
+  margin: 0;
+  padding: 0;
 }
 
 #app {
